@@ -1,0 +1,6 @@
+print("Tell me anything...")
+anything = input()
+print("Hmm...", anything, "...Really?")
+print("2.6.2 The input() function with an argument")
+anything = input("Tell me anything...")
+print("Hmm...", anything, "...Really?")

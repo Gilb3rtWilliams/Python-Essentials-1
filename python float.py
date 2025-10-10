@@ -1,0 +1,5 @@
+print(0.0000000000000000000001)
+print('I like "Monty Python"')
+print(True<False)
+print(False<True)
+print(" \"I\'m\"\n\"\"learning\"\"\n\"\"\"Python\"\"\"")
